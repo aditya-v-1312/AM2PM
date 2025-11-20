@@ -1,0 +1,15 @@
+<resources>
+    <color name="black">#121212</color>
+    <color name="white">#FFFFFF</color>
+    <color name="brand_orange">#FF8C42</color>
+    <color name="brand_pink">#FF5E78</color>
+    <color name="brand_purple">#8F65FF</color>
+    <color name="dark_bg">#1E1E2C</color>
+    <color name="card_bg">#2D2D44</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C3</color>
+    <color name="primary_blue">@color/brand_purple</color>
+    <color name="secondary_purple">@color/brand_orange</color>
+    <color name="light_gray">@color/dark_bg</color>
+    <color name="dark_gray">@color/card_bg</color>
+</resources>
